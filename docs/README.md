@@ -27,19 +27,24 @@ Core principles:
 
 ## Process documents (click to open)
 - [Project Management Overview](octoacme-project-management-overview.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
+- [Role Participation Matrix](octoacme-role-participation-matrix.md)
+- [Process Checklists](octoacme-process-checklists.md)
 - [Project Initiation](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
 - [Execution & Tracking](octoacme-execution-and-tracking.md)
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
 - [Release & Deployment](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles & Personas](octoacme-roles-and-personas.md)
 
 ## How to contribute or request updates
 To propose edits or add a new process doc, open an issue using the "Add Content to Project Management Process Docs" template:
 .github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml
 
 If you want Copilot Spaces to use specific documents as context, add them into `.copilot/` per the Project Management Overview guidance.
+
+## Recent Improvements
+- **Expanded Roles & Personas** ([Issue #5](https://github.com/luozhigang2012/skills-scale-institutional-knowledge-using-copilot-spaces/issues/5)): Added Product Owner, Stakeholder Representative, Agile Coach, QA Lead, and DevOps Engineer roles with detailed responsibilities and interactions. Created Role Participation Matrix and Process Checklists to improve accountability and clarity across all project phases.
 
 ## Acceptance criteria (from issue)
 - [x] Content aligns with existing process docs
